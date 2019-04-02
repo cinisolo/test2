@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-printf("good afternoon");
+printf("good afternoon ciniiiiiiii");
 getch();
 }
